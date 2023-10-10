@@ -60,7 +60,7 @@ p {
 }
 .btn {
   display: inline-block;
-  background: #ff523b;
+  background: #e6a5ac;
   color: white;
   padding: 8px 30px;
   margin: 30px 0;
@@ -112,7 +112,7 @@ p {
 }
 .title::after {
   content: "";
-  background: #ff523b;
+  background: #e6a5ac;
   width: 80px;
   height: 5px;
   border-radius: 5px;
@@ -129,7 +129,7 @@ h4 {
   font-size: 14px;
 }
 .rating .fa {
-  color: #ff523b;
+  color: #e6a5ac;
 }
 .col-4:hover {
   transform: translateY(-5px);
@@ -168,7 +168,7 @@ small {
 }
 .fa.fa-quote-left {
   font-size: 34px;
-  color: #ff523b;
+  color: #e6a5ac;
 }
 .col-3 p {
   font-size: 12px;
@@ -198,12 +198,12 @@ small {
 /* Footer */
 .footer {
   background: black;
-  color: #8a8a8a;
+  color: #ccc;
   font-size: 14px;
   padding: 60px 0 20px;
 }
 .footer p {
-  color: #8a8a8a;
+  color: #fff;
 }
 .footer h3 {
   color: #fff;
